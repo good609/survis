@@ -51,11 +51,18 @@
         "volume": "5",
         "year": "2021"
     },
-    "Ang_Law_Kumari_Letchumanan_Tan_2024, title=": {
-        "&lt;p&gt;&lt;img src": "&quot;https://journals.hh-publisher.com/public/site/images/sbainun/ai-drug.jpg&quot; alt",
-        "&lt;p&gt;&lt;strong&gt;graphical abstract:&lt;/strong&gt; the role of machine learning in drug discovery from &lt;em&gt;streptomyces.&lt;/em&gt;&lt;/p&gt;}, number": "1}, journal",
-        "@article{ang_law_kumari_letchumanan_tan_2024, title": "Unleashing the Power of Artificial Intelligence-Driven Drug Discovery in Streptomyces}, volume",
-        "type": "article"
+    "Ang_Law_Kumari_Letchumanan_Tan_2024": {
+        "abstract": "The rise of antibiotic resistance has created an urgent need for the discovery of new antibiotic compounds. Streptomyces sp. have biosynthetic potential that can be explored using machine learning and artificial intelligence. This paper reviews how ML is applied across the genome mining and optimization pipeline in Streptomyces-based drug discovery.",
+        "author": "Ang, Wei-Shan and Law, Jodi Woan-Fei and Kumari, Yatinesh and Letchumanan, Vengadesh and Tan, Loh Teng-Hern",
+        "doi": "10.36877/pmmb.a0000453",
+        "journal": "Progress In Microbes and Molecular Biology",
+        "month": "November",
+        "number": "1",
+        "title": "Unleashing the Power of Artificial Intelligence-Driven Drug Discovery in Streptomyces",
+        "type": "article article",
+        "url": "https://journals.hh-publisher.com/index.php/pmmb/article/view/1081",
+        "volume": "7",
+        "year": "2024"
     },
     "HU202413": {
         "author": "Jianjun Hu and Qin Li and Nihang Fu",
@@ -78,7 +85,7 @@
         "keywords": "Transparency, Explainable AI, Reliability, Causality, Explainability, Informativeness, Hybrid modeling, Physics-informed",
         "pages": "45-60",
         "title": "Transparency: The Missing Link to Boosting AI Transformations in Chemical Engineering",
-        "type": "article",
+        "type": "article article",
         "url": "https://www.sciencedirect.com/science/article/pii/S2095809924002376",
         "volume": "39",
         "year": "2024"
